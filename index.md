@@ -2,7 +2,7 @@ All things related to solar powered mobiles and gadgets.
 
 I create art and products, and write about it.
 
-- [Art shows where my art was exhibited]({% myShows.md %})
+- [Art shows where my art was exhibited]({% link myShows.md %})
 - My small, solar mobiles for sale
 - My public, large art
 - Other artists in solar kinetic art
