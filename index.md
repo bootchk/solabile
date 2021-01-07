@@ -1,5 +1,3 @@
-## Solabile
-
 All things related to solar powered mobiles and gadgets.
 
 I create art and products, and write about it.
@@ -8,7 +6,8 @@ I create art and products, and write about it.
 - My small, solar mobiles for sale
 - My public, large art
 - Other artists in solar kinetic art
-- A brief history of solar mobiles
+- A history of solar mobiles
+- A history of my solar mobiles
 - Making small electronics at home
 - Principles of solar homes
 
