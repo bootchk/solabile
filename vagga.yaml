@@ -1,0 +1,66 @@
+# Vagga script to build a github-pages website locally, in a userspace container
+
+# Requirements of the host machine:
+# vagga installed (see web)
+# uidmap installed
+#     >sudo apt-get install uidmap
+
+# One container.
+# You can delete the container by >rm -rf .vagga
+# You don't need to be superuser, and you shouldn't do that anyway
+
+# Goal of this script:
+# 1) Delegate to vagga all worries about dependencies github-pages gem > jekyll > ruby
+# 2) Not worry about any versions (if something is not compatible with github-pages, then start worrying.)
+# 3) Not use bundler, which is just another thing to worry about
+
+# In other words, you need to learn a tiny bit about vagga and jekyll and github-pages, but not ruby or bundler
+
+# /work refers to the directory where this vagga.yaml file lives
+# i.e. the "project" directory.
+# It also contains many hidden files (.vagga is the container itself)
+# The website source is in solabile (the name of my project)
+
+# The workflow is:
+# >cd ~/solabile (the project directory, not its subdirectory containing website source)
+# >vagga buildWebsite
+# In another window open browser on served website at url https://localhost:4000
+# Enter cntl-C to quit the website server
+# Make changes to website source and repeat >vagga buildWebsite
+# >git commit        (or a variant, you need to know some basic git also)
+# >git push main origin (to push it to github, which in a half hour will publish publically (jekyll serve it)
+
+# I am not sure if vagga reads the GemFile, or only Jekyll
+# Anyway, it specifies the Jekyll themes and plugins
+
+containers:
+
+  # basic OS with dev (compiling)
+  baseOS:
+    setup:
+    
+    # 20.4 LTS is 'focal'
+    # 20.10 groovy
+    - !Ubuntu groovy
+
+    # enable universe repository
+    - !UbuntuUniverse
+    - !GemInstall [jekyll]
+    - !GemInstall [github-pages]
+
+    # Set env HOME to a directory in the project
+    environ:
+      HOME: /work/.home
+
+
+# bundle exec jekyll serve works better than jekyll serve ???
+
+commands:
+  
+  buildWebsite: !Command
+    description: Build website using jekyll, and start server.  Navigate browser to https://localhost:4000
+    container: baseOS
+    run: |
+      bundle exec jekyll serve
+
+
