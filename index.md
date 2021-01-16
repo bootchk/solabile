@@ -8,6 +8,8 @@ I create art and products, and write about it.
 
 - [My art exhibited]({% link myShows.md %})
 - [My small, solar mobiles for sale]({% link mySmallWorksForSale.md %})
+
+<!---
 - My public, large art
 - Other artists in solar kinetic art
 - A history of solar mobiles
@@ -15,7 +17,7 @@ I create art and products, and write about it.
 - Making small electronics at home
 - Principles of solar homes
 
-<!---
+
 
 
 **Bold** and _Italic_ and `Code` text
