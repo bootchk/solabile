@@ -23,7 +23,12 @@ In the 2016 “Dynamic” show at [Studio Channel Islands Gallery](https://studi
 My early attempt at a solar chime.
 The sound is very faint, and it can stick, that is, it can require adjustment.
 
-![My work titled Solar Chime](/assets/Screenshot from 2019-03-01 08-04-58.png)
+A glass solar cell balances a yellow capacitor.
+A pager motor in the middle is suspended by a nylon line attached to the shaft of the motor.
+The twist of wire on the top arm is to balance the top arm.
+The chime is an aluminum rod from a wind chime.
+
+![My work titled Solar Chime](/assets/SolabileChime.jpg)
 <pre>
 
 
@@ -44,9 +49,9 @@ Many solar spinners on a carbon fiber tube.
 The title is a pun.
 A *light meter* is a device you used to use to measure light intensity to set the exposure on a film camera.
 A *meter* is a metric unit of length.
-(The work is actually four foot long, not a meter long.)
+The work is actually four foot long, not a meter long.
 
-As installed:
+As installed (you can also see "Solar Chime II" and someone else's work) :
 ![My work titled Light Meter](/assets/LightMeterCarrack.jpg)
 
 ## Solar Chime II
@@ -59,7 +64,7 @@ It is on the lowest level, and moves in a curve called an [astroid](https://math
 
 It doesn't stick.
 Sometimes the striker completely misses.
-Other times the arm hits the chime, and bounces off with no sound.
+Other times the arm hits the chime (as pictured), and bounces off with no sound.
 Only occasionally does the striker hit the chime just right.
 
 I donated this work to the gallery, and a patron was kind enough to buy it to contribute to the gallery.
@@ -77,14 +82,14 @@ As it turned out, as performance art it also displayed destructive chaos: the wo
 It was destroyed by gusts when the gallery door was opened.
 I had assembled it for the first time at installation.
 
-It's not a solar mobile.
+Not a solar mobile.
 But it *would* be if the balloons were black. 
 Then it would *slowly* move as sunlight struck different parts throughout the day.
 Like a [solar balloon.](https://en.wikipedia.org/wiki/Solar_balloon)
 
 The work is ephemeral.
 Mylar helium balloons won't stay inflated very long since helium atoms are small and leak.
-The white, air-filled balloons are still in my studio, inflated after five years.
+The silver, air-filled balloons are still in my studio, inflated after five years.
 
 ![My work titled Inversion](/assets/Inversion.jpg)
 <pre>
@@ -97,7 +102,7 @@ The white, air-filled balloons are still in my studio, inflated after five years
 
 In the 2017 “Digitalia” show at [Barrack Art Center](https://www.barrettartcenter.org/) in Poughkeepsie, NY.
 
-Its only six inches wide.
+Only six inches wide.
 In the photo, blue paper covers the solar cells, yet it still moved and blurred.
 
 An exercise in packing hanging spheres into a shape, a cone.
@@ -105,7 +110,6 @@ Its one thing to stack cannonballs, its a different problem to hang them by thre
 
 ![My work titled Event Horizon](/assets/EventHorizon.jpg)
 <pre>
-
 
 
 </pre>
@@ -119,7 +123,7 @@ The title is a pun on the landscape artist Walter De Maria's
 Both works are a bunch of sticks, but my sticks move.
 
 Eight foot carbon fiber tubes with a pager motor, solar cell, and electronics in the middle.
-Hung by fishing line attached to the axle of the pager motor.
+Hung by fishing line attached to the shaft of the pager motor.
 The pager motor doesn't need to torque the whole rod, it just torques up the fishing line.
 The line slowly unwinds and moves the mobile.
 
@@ -128,7 +132,7 @@ See the thin black sticks almost invisible against the clutter of the ceiling?
 You had to be there and pay attention to their subtle movement.
 ![My work titled Lighting Field](/assets/LightingField.jpg)
 
-Video of the prototype in my living room.  TODO
+[Video of the prototype in my living room]()
 
 <pre>
 

@@ -6,8 +6,16 @@ filename: index.md
 
 I create art and products, and write about it.
 
-- [My art exhibited]({% link myShows.md %})
-- [My small, solar mobiles for sale]({% link mySmallWorksForSale.md %})
+- [Art exhibited]({% link myShows.md %})
+- [Small, solar mobiles for sale]({% link mySmallWorksForSale.md %})
+- [Public solar mobiles]({% link myPublicWorks.md %})
+- [Wearables]({% link myWearables.md %})
+
+
+- [Solar artists]({% link solarArtists.md %})
+- [Art categories]({% link artCategory.md %})
+- [History of mobiles]({% link historyOfMobiles.md %})
+- [Kinetic artists]({% link kineticArtists.md %})
 
 <!---
 - My public, large art
