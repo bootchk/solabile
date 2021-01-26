@@ -46,7 +46,7 @@ Same motors and electronics as in "Sun Torque", and same principle of operation.
 
 Turns almost constantly in full sun.
 On an overcast day, turns every few minutes.
-Could be powered at night by a very bright spotlight aimed from above at the solar cells.
+Could be powered at night by a bright spotlight aimed from above at the solar cells.
 
 Six foot tall, eight inches wide.
 Weatherproof and maintenance free, having no batteries.
@@ -84,9 +84,9 @@ Rod comprises two seven foot fishing poles butted together.
 Satellites are spaced non-uniformly, 
 to form more than a [catenary](https://en.wikipedia.org/wiki/Catenary) curve.
 Solar cells are Powerfilm model LL3-37, for indoor light.
-Top is mirrored plastic, and collect dust.
-Motors are brushless Nidec brand motors.
-No batteries; AVX brand, 15 mF capacitors.
+Top is mirrored plastic, and collects dust.
+Motors are brushless, Nidec brand motors.
+No batteries; AVX brand, 15 mF super capacitors.
 Since no batteries and brushless motors, it should last for decades if not a century.
 
 ![My public work Satellites](/assets/Satellites.jpg)

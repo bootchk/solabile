@@ -18,14 +18,12 @@ I create art and products, and write about it.
 - [Kinetic artists]({% link kineticArtists.md %})
 
 <!---
-- My public, large art
+- Light, power, and human perception
 - Other artists in solar kinetic art
 - A history of solar mobiles
 - A history of my solar mobiles
 - Making small electronics at home
 - Principles of solar homes
-
-
 
 
 **Bold** and _Italic_ and `Code` text

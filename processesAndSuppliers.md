@@ -26,7 +26,15 @@ I place [surface mount devices (SMD)](https://en.wikipedia.org/wiki/Surface-moun
 components onto a PCB using a hypodermic needle with a tube to my mouth.
 Some people use tweezers or a hand held, vacuum tool.
 
-Then I reflow the boards in a toaster oven.
+I can only handle discretes no smaller than Imperial 0603 size.
+I use IC packages [QFN](https://en.wikipedia.org/wiki/Flat_no-leads_package) 
+and [XSON-4](https://en.wikipedia.org/wiki/XSON) which TI calls DQN (for four lead mosfets)
+having pitch (between pins) of no less than 0.5mm.
+I often use custom footprints where the pads stick out beyond the package enough
+that I can swipe a solder iron along the package to touch up solder joints
+(so-called hand-solderable footprints.)
+
+I reflow boards in a toaster oven.
 
 The rest of the assembly process is by hand, often using jeweler's tools and a magnifying glass.
 

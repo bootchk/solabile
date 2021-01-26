@@ -35,7 +35,7 @@ For people who appreciate art, or make things, or are interested in technology.
 
 - open source, publicly viewable [source code](https://github.com/bootchk/solabile)
 
-- written and debugged locally (not on-line) in a web server in a [vagga](https://vagga.readthedocs.io/en/latest/) container.
+- edited and debugged locally (not on-line) in a web server in a [vagga](https://vagga.readthedocs.io/en/latest/) container.
 Install only vagga, and then use the vagga.yaml script in the repository.
 You do need to learn Jekyll and git.
 When you edit your page source, it magically appears in your browser.
