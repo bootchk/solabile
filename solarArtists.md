@@ -23,7 +23,7 @@ This page is a work in progress, please send me additional links.
 
 The [Sun Flower](https://landartgenerator.org/blagi/archives/76767)
 
-[Christian Cerrito and Petra Farinha, The Solar Chandelier](http://www.artdesignwhatever.com/2008/07/28/blah-blah-blah/)
+Christian Cerrito and Petra Farinha [The Solar Chandelier](http://www.artdesignwhatever.com/2008/07/28/blah-blah-blah/)
 
 
 ### Artists who used solar panels (light-to-electricity photovolatic devices)
@@ -31,6 +31,8 @@ The [Sun Flower](https://landartgenerator.org/blagi/archives/76767)
 [Patrice Stellest](https://en.wikipedia.org/wiki/Patrice_Stellest) "Solar Head", 1997: A sculpture that incorporated solar panels to blink lights.
 
 [Sarah Hall](https://en.wikipedia.org/wiki/Sarah_Hall_(glass_artist)) Artful but functioning solar panels (generating electricity.)
+
+[Marc_van_den_Broek](https://en.wikipedia.org/wiki/Marc_van_den_Broek) "Sun Writer, 1986. Solar powered, motorized kinetic sculpture with a magnifying glass that burned marks on a plate?
 
 ### Artists who used LED's (electricity-to-light photovolatic devices) powered unconventionally
 

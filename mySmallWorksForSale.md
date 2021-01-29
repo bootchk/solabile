@@ -41,18 +41,20 @@ Hang it under an overhead light, and then it chimes when the light is on.
 Or hang it in carefully selected locations near a window.  Solar cell faces up, do not install where sunlight hits it.
 
 ![My product Solar Indoor Chime](/assets/SolarIndoorChime.jpg)
+
 <pre>
 
 
 
 </pre>
+
 ***
 ## Solar Indoor Low Light Chime
 
 A bird spinning in flowers.
 
 Hang it in a sunny room.
-Requires less light than the {{ page:sibc }} since the solar cell is larger.
+Requires less light than the {{ page.sibc }} since the solar cell is larger.
 The solar cell faces down so it can withstand direct sunlight.
 
 ![My product Solar Indoor Low Light Chime](/assets/SolarIndoorLowLightChime.png)
@@ -62,28 +64,31 @@ The solar cell faces down so it can withstand direct sunlight.
 
 
 </pre>
+
 ***
 ## Solar Indoor Cat Chime
 A cat with an undecorated clapper.
 
-Like the {{ page:sibc }}.
+Like the {{ page.sibc }}.
 Best installed under a ceiling light since the solar cell faces up.
 
 I don't make the glass bells, they are from China.
 This one is molded glass, not blown, so the sound is a little duller.
 
 ![My product Solar Cat Chime](/assets/SolarCatChime.png)
+
 <pre>
 
 
 
 </pre>
+
 ***
 ## Solar Desktop Gong
 
 A solar-powered gong in an acrylic stand, to sit on a desktop or shelf.
 
-Like the {{ page:sibc }} it is best installed under a ceiling light since the solar cell faces up.
+Like the {{ page.sibc }} it is best installed under a ceiling light since the solar cell faces up.
 
 The gong is a repurposed hard drive platter.
 It clanks and doesn't sound like a gong.

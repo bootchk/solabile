@@ -9,7 +9,8 @@ filename: historyOfMobiles.md
 Suppose the definition of an art [mobile](https://en.wikipedia.org/wiki/Mobile_(sculpture))
 is: elements suspended from a horizontal structure so that it is balanced,
 and where the elements or horizontal structure can move in the wind.
-That excludes things that hang, but just twist.
+That excludes single things that hang, but just twist.
+That doesn't exclude some wind vanes and spinners.
 Some part of the sculpture must move in relation to other parts.
 
 Roughly in chronological order.
