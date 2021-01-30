@@ -22,8 +22,24 @@ title: Solabile
 email: konnekerl@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Solar-powered Calder mobiles, kinetic sculpture, chimes, ultra-low power electronics, IOT.
-#baseurl: "/solabile" # the subpath of your site, e.g. /blog
-url: "https://bootchk.github.io/solabile" # the base hostname & protocol for your site, e.g. http://example.com
+
+
+
+# Since this is a "project" site on github, the baseurl is the project name "solabile"
+baseurl: "/solabile" # the subpath of your site, e.g. /blog
+# This works when served at Github.
+# To work locally, use     jekyll serve --baseurl ''
+# However, Jekyll relies on this to find theme and style, so don't change it.
+
+# Define our own variable for pages other than the top and about
+#pages_url: "https://bootchk.github.io/solabile/pages"
+pages_url: "./pages"
+
+# internal links for a page should be: ( {{site.baseurl}}/pages/foo.html )
+
+# Setting this to https interferes with local testing which uses straight http
+# url: "https://bootchk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+
 #twitter_username: jekyllrb
 github_username:  bootchk
 
@@ -45,8 +61,17 @@ header_pages:
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-# exclude:
-#   - .sass-cache/
+exclude:
+   - vagga.yaml
+   - .vagga/
+   - .git/
+   - .home/
+   - gemfiles/
+   - Gemfile
+   - Gemfile.lock
+   - .jekyll-cache/
+
+#    - .sass-cache/
 #   - .jekyll-cache/
 #   - gemfiles/
 #   - Gemfile

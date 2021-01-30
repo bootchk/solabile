@@ -40,7 +40,7 @@ Hang it under an overhead light, and then it chimes when the light is on.
 
 Or hang it in carefully selected locations near a window.  Solar cell faces up, do not install where sunlight hits it.
 
-![My product Solar Indoor Chime](/assets/SolarIndoorChime.jpg)
+![My product Solar Indoor Chime]({{site.baseurl}}/assets/SolarIndoorChime.jpg)
 
 <pre>
 
@@ -57,7 +57,7 @@ Hang it in a sunny room.
 Requires less light than the {{ page.sibc }} since the solar cell is larger.
 The solar cell faces down so it can withstand direct sunlight.
 
-![My product Solar Indoor Low Light Chime](/assets/SolarIndoorLowLightChime.png)
+![My product Solar Indoor Low Light Chime]({{site.baseurl}}/assets/SolarIndoorLowLightChime.png)
 
 <pre>
 
@@ -75,7 +75,7 @@ Best installed under a ceiling light since the solar cell faces up.
 I don't make the glass bells, they are from China.
 This one is molded glass, not blown, so the sound is a little duller.
 
-![My product Solar Cat Chime](/assets/SolarCatChime.png)
+![My product Solar Cat Chime]({{site.baseurl}}/assets/SolarCatChime.png)
 
 <pre>
 
@@ -96,7 +96,7 @@ It clanks and doesn't sound like a gong.
 This is like the units used in my stacked work "Bell Pagoda".
 But improved.
 
-![My product Solar Desktop Gong](/assets/SolarDesktopGong.png)
+![My product Solar Desktop Gong]({{site.baseurl}}/assets/SolarDesktopGong.png)
 <pre>
 
 
@@ -111,7 +111,7 @@ so it can withstand direct sunlight.
 
 The aluminum tube is only about eight inches, not long enough to have a deep, resonant sound
 
-![My product Solar Tubular Chime](/assets/SolarTubularChime.png)
+![My product Solar Tubular Chime]({{site.baseurl}}/assets/SolarTubularChime.png)
 <pre>
 
 
@@ -134,7 +134,7 @@ It is large because a propeller is inefficient.
 You can rotate the hanger so that the solar cell faces up or down.
 The solar cell should not receive direct sunlight.
 
-![My product Solar Propeller Mobile](/assets/SolarPropellerMobile.png)
+![My product Solar Propeller Mobile]({{site.baseurl}}/assets/SolarPropellerMobile.png)
 
 
 

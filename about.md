@@ -21,9 +21,9 @@ For people who appreciate art, or make things, or are interested in technology.
 
 ### About the technology I use
 
-[Components]({% link ComponentTechnology.md %})
+[Components]( {{site.baseurl}}/pages/ComponentTechnology.html)
 
-[Processes and suppliers]({% link processesAndSuppliers.md %})
+[Processes and suppliers]( {{site.baseurl}}/pages/processesAndSuppliers.html)
 
 ### About the web site (colophon)
 
@@ -43,5 +43,5 @@ Then push it to Github, and it magically appears on the web.
 
 
 <!---
-A [starving artist](https://en.wikipedia.org/wiki/Starving_artist).
+
 -->

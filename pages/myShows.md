@@ -1,8 +1,7 @@
 ---
-title: My art exhibited
+title: My exhibited works
 layout: default
-filename: myShows.md
---- 
+---
 
 My portfolio of small, exhibited works, in chronological order.
 
@@ -28,7 +27,7 @@ In the middle, the shaft of a pager motor  is suspended by a nylon line.
 The twist of wire on the top arm slides to balance the mobile.
 The chime is an aluminum rod from a wind chime.
 
-![My work titled Solar Chime](/assets/SolabileChime.jpg)
+![My work titled Solar Chime]({{site.baseurl}}/assets/SolabileChime.jpg)
 <pre>
 
 
@@ -52,7 +51,7 @@ A *meter* is a metric unit of length.
 The work is actually four foot long, not a meter long.
 
 As installed (you can also see "Solar Chime II" and someone else's work) :
-![My work titled Light Meter](/assets/LightMeterCarrack.jpg)
+![My work titled Light Meter]({{site.baseurl}}/assets/LightMeterCarrack.jpg)
 
 ## Solar Chime II
 
@@ -70,7 +69,7 @@ Only occasionally does the striker hit the chime just right.
 I donated this work to the gallery, and a patron was kind enough to buy it.
 I told her it would last many years, and ones like it are still working after five years.
 
-![My work titled Solar Chime II](/assets/SolabileChime2.jpg)
+![My work titled Solar Chime II]({{site.baseurl}}/assets/SolabileChime2.jpg)
 
 ## Inversion
 
@@ -91,7 +90,7 @@ The work was ephemeral.
 Mylar helium balloons won't stay inflated very long since helium atoms are small and leak.
 The silver, air-filled balloons are still in my studio, inflated after five years.
 
-![My work titled Inversion](/assets/Inversion.jpg)
+![My work titled Inversion]({{site.baseurl}}/assets/Inversion.jpg)
 <pre>
 
 
@@ -108,7 +107,7 @@ In the photo, blue paper covers the solar cells, yet it still moved and blurred.
 An exercise in packing hanging spheres into a shape, a cone.
 Its one thing to stack cannonballs, its a different problem to hang them by threads so they don't interfere.
 
-![My work titled Event Horizon](/assets/EventHorizon.jpg)
+![My work titled Event Horizon]({{site.baseurl}}/assets/EventHorizon.jpg)
 <pre>
 
 
@@ -136,7 +135,7 @@ You had to be there and pay attention to their subtle movement.
 
 [Video of the prototype in my living room]()
 
-![My work titled Lighting Field](/assets/LightingField.jpg)
+![My work titled Lighting Field]({{site.baseurl}}/assets/LightingField.jpg)
 
 <pre>
 
@@ -162,7 +161,7 @@ You had to be there and hear it.
 
 See below for a closeup of one unit.
 
-![My work titled Bell Pagoda](/assets/BellPagoda.jpg)
+![My work titled Bell Pagoda]({{site.baseurl}}/assets/BellPagoda.jpg)
 
 <pre>
 
@@ -193,7 +192,7 @@ Then the line unwinds, and slowly turns the case of the motor and the attached s
 The stainless rods differ in diameter and thus stiffness.
 Thus each level droops in a different [inverted catenary curve.](https://mathworld.wolfram.com/Catenary.html)
 
-![My work titled Whisk](/assets/Whisk.jpg)
+![My work titled Whisk]({{site.baseurl}}/assets/Whisk.jpg)
 
 ## Moire
 
@@ -209,7 +208,7 @@ When many parallel lines cross, they can form a [Moire pattern.](https://en.wiki
 Here, when the moving stainless rods are roughly parallel, the Moire pattern they form also moves,
 faster than the rods themselves.
 
-![My work titled Moire](/assets/Moire.jpg)
+![My work titled Moire]({{site.baseurl}}/assets/Moire.jpg)
 
 ## Bell Pagoda" (one unit)
 
@@ -219,7 +218,7 @@ Here the "resonant element" is a glass bell, from a "Furin" wind chime that I di
 
 Contrast with "Inner Chime" below, where the clapper is inside.
 
-![My work titled Bell Pagoda, one unit](/assets/BellPagodaGlassUnit.jpg)
+![My work titled Bell Pagoda, one unit]({{site.baseurl}}/assets/BellPagodaGlassUnit.jpg)
 
 ## Inner Chime
 
@@ -231,7 +230,7 @@ Unlike the earlier "Sun Chime" it can not stick.
 
 Simpler and more compact than a Bell Pagoda unit.
 
-![My work titled Inner Chime](/assets/SolarInnerChime.jpg)
+![My work titled Inner Chime]({{site.baseurl}}/assets/SolarInnerChime.jpg)
 
 ## After George Rickey
 
@@ -251,7 +250,7 @@ One of his stabile works is similar, two chopstick-like stainless rods mounted
 on a post by ball bearings near their middles.
 I suspect he would have done solar mobiles if they had been invented in his day.
 
-![My work titled After George Rickey](/assets/AfterGeorgeRickey.jpg)
+![My work titled After George Rickey]({{site.baseurl}}/assets/AfterGeorgeRickey.jpg)
 
 ## Fireflies
 
@@ -278,12 +277,12 @@ A work in progress.
 
 [Video](https://www.facebook.com/solabile/videos/1622071651188754/)
 
-![My work titled Fireflies](/assets/Firefly.jpg)
+![My work titled Fireflies]({{site.baseurl}}/assets/Firefly.jpg)
 
 
 ## Solar Earring II  and Solar Origami Earring
 
-See [wearables]({% link myWearables.md %})
+See [wearables]( {{site.baseurl}}/pages/myWearables.html)
 
 ## Solabile Three Levels
 
@@ -293,7 +292,7 @@ Here all the levels have the same components, but in different places.
 Calder mobiles would typically have a large and heavy decoration in the top level,
 so that the mobile reached out farther.
 
-![My work titled Solabile Three Levels](/assets/SolabileThreeLevels.jpg)
+![My work titled Solabile Three Levels]({{site.baseurl}}/assets/SolabileThreeLevels.jpg)
 
 <pre>
 
@@ -324,7 +323,7 @@ The brochure shows many beautiful artworks.
 
 Not a solar mobile, but a solar, virtually kinetic lamp.
 
-A rule of the exhibit was that you must use, and only use, a provided LED lamp for illumination.
+A rule of the exhibit was that you must use, and only use, a provided LED lamp, plugged into an outlet.
 And [kinetic art](https://en.wikipedia.org/wiki/Kinetic_art) was not allowed.
 So I did not use motors, but used solar cells that powered *more* LED's.
 So I was fighting authority, to create a work that used other light sources, and that seemed to move.
@@ -334,7 +333,7 @@ Virtually kinetic, in the sense that blinking LED's seem like motion.
 
 Once again, a static image does not do it justice.
 
-My [artist statement]({% link LightCubedArtistStatement.md %}) 
+My [artist statement]( {{site.baseurl}}/pages/LightCubedArtistStatement.html) 
 explains the technology, the efficiency of photovoltaics solar cells, and the political statement the artwork makes.
 
 The title is a pun.
@@ -352,7 +351,7 @@ the other takes electricity and gives light.
 Three flows of light, and two flows of electricity, with conversion losses.
 The original light is millions of times stronger than the green LED light.
 
-![My work titled Light Cubed](/assets/LightCubed.jpg)
+![My work titled Light Cubed]({{site.baseurl}}/assets/LightCubed.jpg)
 
 
 <!---
@@ -366,5 +365,4 @@ Bell Pagoda Unit image
 firefly synchronization algorithm link
 
 -->
-
 

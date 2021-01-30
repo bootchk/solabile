@@ -28,7 +28,7 @@ Six foot tall, four inches wide.
 
 [Video](https://fb.watch/2JKXmZs48d/) of the taller prototype at Facebook.
 
-![My public work Sun Torque](/assets/SunTorque.jpg)
+![My public work Sun Torque]({{site.baseurl}}/assets/SunTorque.jpg)
 <pre>
 
 
@@ -56,7 +56,7 @@ It requires leveling and caulking after installation.
 
 [Video](https://youtu.be/GtxqsN5bF-Q or https://fb.watch/2Pi6bXyil6/) at YouTube.
 
-![My public work Sun Field](/assets/SunField.jpg)
+![My public work Sun Field]({{site.baseurl}}/assets/SunField.jpg)
 
 <pre>
 
@@ -89,7 +89,7 @@ Motors are brushless, Nidec brand motors.
 No batteries; AVX brand, 15 mF super capacitors.
 Since no batteries and brushless motors, it should last for decades if not a century.
 
-![My public work Satellites](/assets/Satellites.jpg)
+![My public work Satellites]({{site.baseurl}}/assets/Satellites.jpg)
 
 <!---
 

@@ -6,33 +6,27 @@ filename: index.md
 
 I create art and products, and write about it.
 
-- [Art exhibited]({% link myShows.md %})
-- [Small, solar mobiles for sale]({% link mySmallWorksForSale.md %})
-- [Public solar mobiles]({% link myPublicWorks.md %})
-- [Wearables]({% link myWearables.md %})
+
+- [Art exhibited](  {{site.pages_url}}/myShows.html )
+- [Small, solar mobiles for sale](  {{site.pages_url}}/mySmallWorksForSale.html)
+- [Public solar mobiles](  {{site.pages_url}}/myPublicWorks)
+- [Wearables](  {{site.pages_url}}/myWearables.html)
 
 
-- [Solar artists]({% link solarArtists.md %})
-- [Art categories]({% link artCategory.md %})
-- [History of mobiles]({% link historyOfMobiles.md %})
-- [Kinetic artists]({% link kineticArtists.md %})
+- [Solar artists](  {{site.pages_url}}/solarArtists.html)
+- [Art categories](  {{site.pages_url}}/artCategory.html)
+- [History of mobiles](  {{site.pages_url}}/historyOfMobiles.html)
+- [Kinetic artists](  {{site.pages_url}}/kineticArtists.html)
 
 <!---
+
+
+
 - Light, power, and human perception
 - Other artists in solar kinetic art
 - A history of solar mobiles
 - A history of my solar mobiles
 - Making small electronics at home
 - Principles of solar homes
-
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 -->

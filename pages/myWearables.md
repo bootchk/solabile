@@ -32,7 +32,7 @@ Produces about 1.2V.
 Since the solar cells are wrapped around the circuit board,
 some are shaded.
 
-![My wearable Solar Earring](/assets/SolarEarring.png)
+![My wearable Solar Earring]({{site.baseurl}}/assets/SolarEarring.png)
 
 <pre>
 
@@ -53,7 +53,7 @@ All solar cells are in the same plane
 so usually none are shaded.
 Thus, loosely speaking, it requires the same light as the first earring.
 
-![My wearable Solar Earring II](/assets/SolarEarringII.jpg)
+![My wearable Solar Earring II]({{site.baseurl}}/assets/SolarEarringII.jpg)
 <pre>
 
 
@@ -76,12 +76,12 @@ About six dollars each.
 Partly because you must pay for the bounding rectangle of the board,
 so the cross shape of this board has much wasted space that you pay for.
 
-![My wearable Solar Origami Earring II](/assets/SolarOrigamiEarring.jpg)
+![My wearable Solar Origami Earring II]({{site.baseurl}}/assets/SolarOrigamiEarring.jpg)
 
 The PCB before and after folding.
 The components end up on the bottom.
 
-![My wearable Solar Origami Earring II](/assets/SolarOrigamiBoard.jpg)
+![My wearable Solar Origami Earring II]({{site.baseurl}}/assets/SolarOrigamiBoard.jpg)
 
 <pre>
 

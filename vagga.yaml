@@ -61,6 +61,6 @@ commands:
     description: Build website using jekyll, and start server.  Navigate browser to https://localhost:4000
     container: baseOS
     run: |
-      bundle exec jekyll serve
+      bundle exec jekyll serve --baseurl ''
 
 
