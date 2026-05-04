@@ -38,7 +38,7 @@ pages_url: "./pages"
 # internal links for a page should be: ( {{site.baseurl}}/pages/foo.html )
 
 # Setting this to https interferes with local testing which uses straight http
-# url: "https://bootchk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://bootchk.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 #twitter_username: jekyllrb
 github_username:  bootchk
