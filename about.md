@@ -17,7 +17,7 @@ or [whirligigs.](https://en.wikipedia.org/wiki/Whirligig)
 
 ### Audience
 
-For people who appreciate art, or make things, or are interested in technology.
+For consumers, artists, makers, or techies.
 
 ### About the technology I use
 

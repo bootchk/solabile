@@ -4,7 +4,12 @@ layout: default
 filename: index.md
 --- 
 
-I create art and products, and write about it.
+I create solar-powered mobiles and chimes.
+They work indoors, in bright light that a solar calculator requires, or less.
+Motorized by small DC and brushless DC motors.
+Long-lived, without batteries.
+Art and products.
+
 
 
 - [Art exhibited](  {{site.pages_url}}/myShows.html )
