@@ -23,6 +23,9 @@ Art and products.
 - [History of mobiles](  {{site.pages_url}}/historyOfMobiles.html)
 - [Kinetic artists](  {{site.pages_url}}/kineticArtists.html)
 
+
+- [The essence of art mobiles](  {{site.pages_url}}/aboutMobiles.html)
+
 <!---
 
 
