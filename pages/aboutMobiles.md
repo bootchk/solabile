@@ -6,7 +6,7 @@ filename: aboutMobiles.md
 # About this page
 
 This is a brief treatise on art mobiles.
-Its purpose is to gather seemingly obvious observations about mobiles in one place and connect related concepts.
+Its purpose is to gather observations about mobiles in one place and connect related concepts.
 It also enumerates several variants of the form.
 
 The next page examines motorized and solar-powered variants in more detail.
@@ -15,8 +15,7 @@ The next page examines motorized and solar-powered variants in more detail.
 
 See the [wiki definition](https://en.wikipedia.org/wiki/Mobile_(sculpture)), especially for the origin of the word.
 
-A mobile is an artwork whose value is primarily aesthetic.
-It serves no purpose other than to be seen.
+A mobile is an artwork whose value is purely aesthetic — it exists to be seen.
 
 A mobile is a three-dimensional sculpture.
 
@@ -55,7 +54,7 @@ Such artworks share the same characteristics as mobiles.
 
 [George Rickey](https://en.wikipedia.org/wiki/George_Rickey) created many supported, outdoor, kinetic sculptures.
 
-The word [stabile](https://en.wikipedia.org/wiki/Glossary_of_sculpting#stabile) seems to refer to a class of Alexander Calder artworks that are sculpture but do not physically move.
+The word [stabile](https://en.wikipedia.org/wiki/Glossary_of_sculpting#stabile) refers to a class of Alexander Calder artworks that are sculpture but do not physically move.
 
 ### Units and structure
 
@@ -158,15 +157,16 @@ at the crossing of two moving arms of a mobile.
 
 ### Driving force
 
-Traditional mobiles move by the force of wind.
-Even an interior room usually contains drafts that will move a mobile.
-These drafts may come from heating and air conditioning, thermal currents, or the movement of people.
+Traditional mobiles move by wind.
+Even indoors, drafts from heating, air conditioning, thermal currents, or people moving will drive them.
 
 Some mobiles are driven by electromotive force, that is, motors.
 
-A [Crookes radiometer](https://en.wikipedia.org/wiki/Radiometer) is a mobile driven directly by radiation, such as light, by thermal effects in a vacuum. 
-A radiometer has one level.
-It might be possible to build a radiometer with many levels.
+A [Crookes radiometer](https://en.wikipedia.org/wiki/Crookes_radiometer) is a device driven by light through differential heating of its vanes in a partial vacuum.
+Since it is a toy and art to be seen, with a pivot, and kinetic, it is a mobile.
+
+A Crookes radiometer has one level.
+It might be possible to build a Crookes radiometer with many levels.
 
 ## Forces on wind driven mobiles
 

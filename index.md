@@ -5,10 +5,10 @@ filename: index.md
 --- 
 
 I create solar-powered mobiles and chimes.
-They work indoors, in bright light that a solar calculator requires, or less.
-Motorized by small DC and brushless DC motors.
-Long-lived, without batteries.
-Art and products.
+They work indoors, in no more light than a solar calculator requires.
+Motorized by small DC motors, including brushless types.
+Battery-free and long-lived.
+Available as art and as products.
 
 
 
