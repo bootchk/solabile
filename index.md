@@ -27,10 +27,9 @@ Available as art and as products.
 - [The essence of art mobiles](  {{site.pages_url}}/aboutMobiles.html)
 - [The essence of motorized mobiles](  {{site.pages_url}}/motorizedMobiles.html)
 - [Motors for motorizedmobiles](  {{site.pages_url}}/motorsForMobiles.html)
+
+
 <!---
-
-
-
 - Light, power, and human perception
 - Other artists in solar kinetic art
 - A history of solar mobiles
