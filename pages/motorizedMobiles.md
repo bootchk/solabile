@@ -5,23 +5,29 @@ filename: motorizedMobiles.md
 --- 
 ## About this page
 
-This is a brief treatise on motorized art mobiles.
-It discusses solar-powered motors in detail.
+This page is a brief treatise on motorized art mobiles.
+It focuses on internal motors and solar-powered operation.
 
 The previous page discusses art mobiles in general.
 You might read it first.
 
+### Key takeaways
+
+- Internal motors can simplify wiring and eliminate slip rings between levels.
+- Shaft-up motor orientation has several practical advantages.
+- Solar-powered mobiles often work best with stored-energy pulses rather than continuous drive.
+
 ## History of motorized and solar-powered mobiles
 
-Art mobiles saw their heyday in the time of [Duchamp](https://en.wikipedia.org/wiki/Marcel_Duchamp#Kinetic_art) and [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder) in the early 20th century.
+Art mobiles saw their heyday in the early 20th century, in the era of [Duchamp](https://en.wikipedia.org/wiki/Marcel_Duchamp#Kinetic_art) and [Alexander Calder](https://en.wikipedia.org/wiki/Alexander_Calder).
 Both made motorized mobiles.
 At the time, electric motors were a consumer item, but large and powered from mains.
 They used motors external to the art mobile.
 Solar cells had not been invented.
 Batteries were large and heavy, commonly lead-acid batteries.
 
-Advancemes in technology in the late 20th century
-made it possible to make art mobiles with internal motors.
+Advances in technology in the late 20th century
+made it possible to build art mobiles with internal motors.
 Advancements came in motors, electronics, batteries, solar power, and miniaturization.
 
 ## External versus internal motors in an art mobile
@@ -37,15 +43,15 @@ One external motor is attached to the ceiling or floor.
 The motor body does not move.
 The motor can be powered from mains.
 
-The external motor turns the top level of the motor.
+The external motor turns the top level of the mobile.
 The other levels of the mobile are turned by apparent wind
 induced by the motor.
 
-This arrangement is also convenient to solar-powered mobiles.
+This arrangement is also convenient for solar-powered mobiles.
 The motor can be powered from a stationary, large, and heavy
 solar panel, also external to the mobile.
 
-Using an external motor, there are fewer limitations on weight, power,efficiency, and voltage of the motor.
+Using an external motor, there are fewer limitations on motor weight, power, efficiency, and voltage.
 
 But the motor is constrained to power the top level.
 It is a complex problem to transfer its power to other levels,
@@ -70,23 +76,23 @@ A motor body is usually fixed or attached to a supporting structure.
 The shaft turns a load.
 
 Choice of orientation and position of motors
-yields different aesthetic, subjective quality 
-of turning of the mobile.
+yields different aesthetic and subjective qualities
+in the mobile's motion.
 
 ### Orientation and position of internal motors in mobiles
 
-A motor in a level of a mobile 
+A motor in a level of a mobile
 is conveniently oriented with its shaft vertical.
 Then the motor serves a dual purpose:
 motive force and pivot.
 
 The motor can be oriented with its shaft up or down.
 
-When oriented shaft up in an art mobile,
+When oriented shaft-up in an art mobile,
 the motor primarily turns the level supporting the motor body.
 The motor is positioned at the balance point of the level.
 
-When oriented shaft down in an art mobile,
+When oriented shaft-down in an art mobile,
 the motor primarily turns the level below
 the level supporting the body of the motor.
 The motor body is positioned offset from the balance point of the level,
@@ -97,21 +103,20 @@ where the level beneath is suspended.
 Not every level of a multi-level art mobile needs a motor
 to make all the levels rotate as expected in mobiles.
 
-You can make a three level motorized mobile,
+You can make a three-level motorized mobile
 that moves as expected for a mobile,
 using only one motor.
 
-To strongly move a mobile  in each level
+To strongly drive motion in each level
 might require more motors.
 
-Using more motors allows more variety of motion.
-Using more motors enables more positive control
-of the motion of the mobile.
+Using more motors allows more varied motion
+and more direct control of the mobile's behavior.
 
 ### Negligible effects of equal and opposite torques
 
-A motor one one level torques and spins that level,
-and also provides a opposite torque
+A motor on one level torques and spins that level,
+and also provides an opposite torque
 on the connected level,
 at the point of connection.
 The opposite torque has negligible effect
@@ -129,13 +134,13 @@ The torque to the level with the motor is negligible.
 
 The lowest level of a mobile requires no motor.
 Instead it can be constructed so that the rotation
-of the level above causes 
-the lowest level to rotate by weather cocking.
+of the level above causes
+the lowest level to rotate by weathercocking.
 This can be done using a constrained
 torsional connection between the two levels
 that keeps the levels in alignment at rest,
 and a vane on the lower level that makes
-it weather cock to rotate orthogonal to the level above.
+it weathercock to rotate orthogonal to the level above.
 
 ### Rowing between levels above in a mobile
 
@@ -145,32 +150,32 @@ In a motorized mobile, a vane acts as a paddle or oar,
 rowing in the air.
 This makes a motorized level not only spin,
 but push on the arm of the connected level.
-When a motor is oriented shaft up,
+When a motor is oriented shaft-up,
 the push is translated to the arm of the level above.
-In a two level mobile where only the bottom level is motorized but has a vane,
+In a two-level mobile where only the bottom level is motorized but has a vane,
 the motor still indirectly causes motion in the top level.
 
 ## Conveyance of motive force in motorized mobiles
 
-A motor can drive a propellor that turns levels of a mobile, 
-or directly turn levels of a motor.
+A motor can drive a propeller that turns levels of a mobile,
+or directly turn levels of a mobile.
 
-### Propellor driven motorized mobiles
+### Propeller-driven motorized mobiles
 
-Propellors are inefficient.
-They require more power to effect the same motion in a mobile.
+Propellers are inefficient.
+They require more power to achieve the same motion in a mobile.
 
 ### Direct drive motorized mobiles
 
 A motor can directly drive the rotation between elements of a mobile.
 
-The rorational connection between levels of a mobile
+The rotational connection between levels of a mobile
 can be rigid or torsional.
 A rigid connection requires the motor to have high starting torque.
 A torsional connection lets the motor have lower starting torque.
 
 Reduction gears can increase the torque of a motor,
-and reduce the RPM's.
+and reduce RPMs.
 But reduction gears are heavy and increase complexity.
 Reduction gears do not reduce the power required,
 only increase the torque.
@@ -189,7 +194,7 @@ They have sufficient power to turn small motors.
 But rechargeable batteries eventually need recharging.
 Non-rechargeable batteries eventually need replacement.
 Since mobiles are often permanently installed in high places,
-it is onerous to replace batteries, or any other part.
+it is difficult to replace batteries, or any other part.
 
 ### Solar
 
@@ -204,12 +209,12 @@ but to display intermittent, back-and-forth motion.
 
 Consequently, it is convenient to intermittently pulse a motorized mobile.
 Then a smaller solar cell can store energy
-and yield its power in pulses enough to turn motors.
+and deliver that power in pulses strong enough to turn motors.
 
 For example, a small pager motor the size of a coin
 requires a tenth of an amp to turn,
 but a typical solar cell the size of a playing card
-only deliver a few hundreths of an amp.
+only delivers a few hundredths of an amp.
 In this example, the energy from the solar cell must be stored
 for many tens of seconds before it can deliver
 a very short pulse sufficient to turn the motor only a few revolutions.
@@ -225,7 +230,7 @@ also creates an apparent wind that imparts secondary aerodynamic forces
 on components of the level.
 
 Any actual, external wind on a motorized mobile
-also import tertiary aerodynamic forces.
+also imparts tertiary aerodynamic forces.
 
 ## Location and orientation of solar panels on motorized mobiles
 
@@ -241,7 +246,7 @@ and its aesthetic effects.
 ### Location of mobile solar panels for balance
 
 Solar panels are conveniently used for their mass as balancing elements,
-and positioned at the the end of the arms of a level.
+and positioned at the end of the arms of a level.
 
 ### Aesthetics of mobile solar panels
 
@@ -256,7 +261,7 @@ for aesthetic and aerodynamic effects.
 Solar panels are also broad in area
 and can be used
 as vanes on an art mobile.
-However vanes need be orthogonal to the plane of rotation,
+However, vanes need to be orthogonal to the plane of rotation,
 which is usually horizontal with the surface of the earth.
 Consequently, solar panels used as vanes are oriented
 with their face vertical.
@@ -280,11 +285,11 @@ Solar panels in art mobiles oriented with their face up
 gather the most light,
 since artificial light indoors often comes from overhead,
 reflected off the ceiling.
-Sun light through a window also comes from overhead.
+Sunlight through a window also comes from overhead.
 
 But solar cells oriented face up
 near a window or skylight
-may sometime receive direct sunlight.
+may sometimes receive direct sunlight.
 Sunlight is intensely strong,
 and may heat a solar panel, shortening its life.
 Sunlight provides much power
@@ -295,4 +300,4 @@ Solar panels indoors with their face down
 gather light reflected from the floor.
 This light is more uniform,
 but weaker than light from directly overhead.
-This light is never direct sun light.
+This light is never direct sunlight.
