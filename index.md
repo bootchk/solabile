@@ -26,6 +26,7 @@ Available as art and as products.
 
 - [The essence of art mobiles](  {{site.pages_url}}/aboutMobiles.html)
 - [The essence of motorized mobiles](  {{site.pages_url}}/motorizedMobiles.html)
+- [Motors for motorizedmobiles](  {{site.pages_url}}/motorsForMobiles.html)
 <!---
 
 
